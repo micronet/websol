@@ -37,7 +37,7 @@ curl_close($session);
 }
 </style>
 
-<?php //print_r($json); ?>
+<?php //var_dump($json); ?>
 
 <?php foreach($json as $data): ?>
 	<div class="member-contain">
